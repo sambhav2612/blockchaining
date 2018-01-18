@@ -1,4 +1,4 @@
-# chain
+# blockchaining
 
 Overview: blocks+chain=unlimited opportunities
 
@@ -6,11 +6,18 @@ Overview: blocks+chain=unlimited opportunities
 - <a href="#blockchain">Blockchain</a>
   - <a href="#what_is_blockchain">What is Blockchain?</a>
     - <a href="#characterstics">Characterstics</a>
+    - <a href="#how_it_works">How it works?</a>
 
 ## <a name="blockchain">Blockchain</a> 
 ### <a name="what_is_blockchain">What is Blockchain?</a>
 Blockchain is a technology used to process an economic transaction (or any transaction of value) using a decentralized network of computers spread across the world. 
 #### <a name="characterstics">Characterstics</a>
+1. Completely decentralized design.
+2. Implements validation for secure transaction.
+3. Transparent and secure. Very low rate of human error.
+4. Implements concept of shared databases.
+
+#### <a name="how_it_works">How it works?</a>
 1. Each such computer with complete access the the same tech.
 2. The transaction goes through validation for user's status and the transaction initiated.
 3. Each transaction processed is transaparent and visible to everyone. 
