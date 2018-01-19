@@ -1,6 +1,4 @@
-# blockchaining
-
-Overview: blocks+chain=unlimited opportunities
+# blockchaining-everything
 
 <a name="index">Index:</a>
 <ul> 
