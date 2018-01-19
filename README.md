@@ -3,7 +3,7 @@
 <a name="index">Index:</a>
 <ul> 
     <li><a href="#blockchain">Blockchain</a></li>
-    <ul>
+    <ul> 
         <li><a href="#what_is_blockchain">What is Blockchain?</a></li>
             <ul>
                 <li><a href="#definition">Definition</a></li>
@@ -20,6 +20,7 @@
 <hr>
 
 ## <a name="blockchain">Blockchain</a>
+<a href="#index">top ↑</a>
 ### <a name="what_is_blockchain">What is Blockchain?</a>
 #### <a name="definition">Definition</a>
 Blockchain is a technology used to process any transaction of value using a decentralized (P2P to be specific) network of computers spread across the world.
