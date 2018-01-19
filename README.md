@@ -8,7 +8,6 @@
             <ul>
                 <li><a href="#definition">Definition</a></li>
                 <li><a href="#characterstics">Characterstics</a></li>
-                <li><
                 <li><a href="#why_use_blockchain">Why use blockchain?</a></li>
             </ul>
         <li><a href="#how_it_works">How it works?</a></li>
@@ -17,8 +16,6 @@
         <li><a>more to add...</a></li>
     </ul>
 </ul>
-
-<hr>
 
 <hr>
 
