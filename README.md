@@ -1,6 +1,5 @@
-# blockchaining-everything
+# <a name="index">blockchaining-everything</a>
 
-<a name="index">Index:</a>
 <ul> 
     <li><a href="#blockchain">Blockchain</a></li>
     <ul> 
