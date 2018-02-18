@@ -1,4 +1,4 @@
-pragma solidity ^0.4.9;
+pragma solidity ^0.4.18;
 
 contract MyContract {
     string word = "Hello World";
@@ -7,7 +7,7 @@ contract MyContract {
         return word;
     }
     
-    function replace(string newWord) public constant returns(string) {
+    function replace(string newWord) public pure returns(string) {
         return newWord;
     }
 }
