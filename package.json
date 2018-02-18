@@ -1,0 +1,15 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "THIS REPO IS NOW MAINTAINED HERE [IN PLAIN TEXT]: https://docs.google.com/document/d/1XdTVxrrNP6XqFc95AVzrFsfywWkbJ4tecoXTQjffmAM",
+  "main": "index.js",
+  "scripts": {
+    "test": "soljs --version",
+    "build": "soljs --output-dir='./output' --abi --bin --helloWorld.sol"
+  },
+  "author": "Sambhav Jain",
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.4.20"
+  }
+}
