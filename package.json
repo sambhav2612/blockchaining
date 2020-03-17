@@ -10,6 +10,6 @@
   "author": "Sambhav Jain",
   "license": "MIT",
   "dependencies": {
-    "solc": "^0.4.20"
+    "solc": "^0.5.11"
   }
 }
